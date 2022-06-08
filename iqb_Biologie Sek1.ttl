@@ -390,9 +390,9 @@
 
 <> a skos:ConceptScheme ;
     dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
-    dct:description "Bildungsstandards im Fach Biologie für den Mittleren Schulabschluss" ;
+    dct:description "Bildungsstandards im Fach Biologie für den Mittleren Schulabschluss"@de ;
     dct:publisher "IQB" ;
-    dct:title "Biologie Sek1" ;
+    dct:title "Biologie Sek1"@de ;
     skos:hasTopConcept <bio001>,
         <bio002>,
         <bio003>,
