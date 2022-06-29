@@ -1,451 +1,451 @@
-@base <https://w3id.org/iqb/bista04/bista04-bio-s1/> .
+@base <https://w3id.org/iqb/bista04-bio-s1/> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
-<bio001/16581373-2f9f-4c25-9dc8-15b5b6e65f10> a skos:Concept ;
-    skos:broader <bio001/bb7ad5d0-8b8b-4ba5-a321-b89bd3ae0478> ;
-    skos:inScheme <> ;
-    skos:notation "1.3.1.1" ;
-    skos:prefLabel "F 3.1 erläutern die Bedeutung der Zellteilung für Wachstum, Fortpflanzung und Vermehrung,"@de .
-
-<bio001/165a0969-85ba-4120-8156-90b67b63b570> a skos:Concept ;
-    skos:broader <bio001/bb7ad5d0-8b8b-4ba5-a321-b89bd3ae0478> ;
-    skos:inScheme <> ;
-    skos:notation "1.3.1.7" ;
-    skos:prefLabel "F 3.7 erklären die Variabilität von Lebewesen,"@de .
-
-<bio001/28e9547d-1239-48c0-8a81-d8d138e42c05> a skos:Concept ;
-    skos:broader <bio001/0837cdc0-3182-4428-91a3-3756a437b0e7> ;
-    skos:inScheme <> ;
-    skos:notation "1.2.1.1" ;
-    skos:prefLabel "F 2.1 beschreiben Zellen als strukturelle und funktionelle Grundbaueinheiten von Lebewesen,"@de .
-
-<bio001/312d986d-cfeb-4bd6-8ed0-5cdba6489ba7> a skos:Concept ;
-    skos:broader <bio001/49fb9247-4c57-41ab-960e-725d0454e2c6> ;
-    skos:inScheme <> ;
-    skos:notation "1.1.1.2" ;
-    skos:prefLabel "F 1.2 erklären den Organismus und Organismengruppen als System,"@de .
-
-<bio001/4764b0ff-591c-40a0-937a-30f0ecf84308> a skos:Concept ;
-    skos:broader <bio001/49fb9247-4c57-41ab-960e-725d0454e2c6> ;
-    skos:inScheme <> ;
-    skos:notation "1.1.1.8" ;
-    skos:prefLabel "F 1.8 kennen und verstehen die grundlegenden Kriterien von nachhaltiger Entwicklung."@de .
-
-<bio001/47684685-8794-4739-9752-8e9de54303c7> a skos:Concept ;
-    skos:broader <bio001/0837cdc0-3182-4428-91a3-3756a437b0e7> ;
-    skos:inScheme <> ;
-    skos:notation "1.2.1.6" ;
-    skos:prefLabel "F 2.6 beschreiben und erklären die Angepasstheit ausgewählter Organismen an die Umwelt."@de .
-
-<bio001/48e95882-f56b-49d5-b04c-9b555bcf1f1c> a skos:Concept ;
-    skos:broader <bio001/bb7ad5d0-8b8b-4ba5-a321-b89bd3ae0478> ;
-    skos:inScheme <> ;
-    skos:notation "1.3.1.2" ;
-    skos:prefLabel "F 3.2 beschreiben die artspezifische Individualentwicklung von Organismen,"@de .
-
-<bio001/4bfde809-6d39-4454-bfc1-d3295bdb30d1> a skos:Concept ;
-    skos:broader <bio001/49fb9247-4c57-41ab-960e-725d0454e2c6> ;
-    skos:inScheme <> ;
-    skos:notation "1.1.1.5" ;
-    skos:prefLabel "F 1.5 wechseln zwischen den Systemebenen,"@de .
-
-<bio001/7b2ff5a1-155a-45e2-9026-f8d594baa3e6> a skos:Concept ;
-    skos:broader <bio001/0837cdc0-3182-4428-91a3-3756a437b0e7> ;
-    skos:inScheme <> ;
-    skos:notation "1.2.1.2" ;
-    skos:prefLabel "F 2.2 vergleichen die bakterielle, pflanzliche und tierliche Zelle in Struktur und Funktion,"@de .
-
-<bio001/94d5818d-d2b5-4e7e-bf10-acda00fc6f78> a skos:Concept ;
-    skos:broader <bio001/49fb9247-4c57-41ab-960e-725d0454e2c6> ;
-    skos:inScheme <> ;
-    skos:notation "1.1.1.3" ;
-    skos:prefLabel "F 1.3 erklären Ökosystem und Biosphäre als System,"@de .
-
-<bio001/9797a6ca-506b-47d2-b460-91e356af4d9a> a skos:Concept ;
-    skos:broader <bio001/bb7ad5d0-8b8b-4ba5-a321-b89bd3ae0478> ;
-    skos:inScheme <> ;
-    skos:notation "1.3.1.3" ;
-    skos:prefLabel "F 3.3 beschreiben verschiedene Formen der Fortpflanzung,"@de .
-
-<bio001/a4f5fc20-478d-441f-8799-7566610fe162> a skos:Concept ;
-    skos:broader <bio001/0837cdc0-3182-4428-91a3-3756a437b0e7> ;
-    skos:inScheme <> ;
-    skos:notation "1.2.1.5" ;
-    skos:prefLabel "F 2.5 beschreiben die strukturelle und funktionelle Organisation im Ökosystem,"@de .
-
-<bio001/a74404fd-76c1-4c8c-a428-2a579a44039b> a skos:Concept ;
-    skos:broader <bio001/0837cdc0-3182-4428-91a3-3756a437b0e7> ;
-    skos:inScheme <> ;
-    skos:notation "1.2.1.4" ;
-    skos:prefLabel "F 2.4 beschreiben und erklären Struktur und Funktion von Organen und Organsystemen, z. B. bei der Stoff- und Energieumwandlung, Steuerung und Regelung, Informationsverarbeitung, Vererbung und Reproduktion,"@de .
-
-<bio001/b59d7cab-5f5e-47b0-a998-36928f6ec23d> a skos:Concept ;
-    skos:broader <bio001/49fb9247-4c57-41ab-960e-725d0454e2c6> ;
-    skos:inScheme <> ;
-    skos:notation "1.1.1.4" ;
-    skos:prefLabel "F 1.4 beschreiben und erklären Wechselwirkungen im Organismus, zwischen Organismen sowie zwischen Organismen und unbelebter Materie,"@de .
-
-<bio001/b6e3ee05-4c1a-4b32-bf86-13a6fd08a695> a skos:Concept ;
-    skos:broader <bio001/49fb9247-4c57-41ab-960e-725d0454e2c6> ;
+<bio001/1aff95a0-833f-4160-a2af-7c3e9d960cc4> a skos:Concept ;
+    skos:broader <bio001/f1fd239c-854e-44cf-83d0-924cbcb1f8aa> ;
     skos:inScheme <> ;
     skos:notation "1.1.1.6" ;
     skos:prefLabel "F 1.6 stellen einen Stoffkreislauf sowie den Energiefluss in einem Ökosystem dar,"@de .
 
-<bio001/c5812d4f-b639-4310-9803-ff7160263c0d> a skos:Concept ;
-    skos:broader <bio001/bb7ad5d0-8b8b-4ba5-a321-b89bd3ae0478> ;
-    skos:inScheme <> ;
-    skos:notation "1.3.1.4" ;
-    skos:prefLabel "F 3.4 beschreiben ein Ökosystem in zeitlicher Veränderung,"@de .
-
-<bio001/c7eaf4c6-7521-4c31-8782-eb5c39b1f5c3> a skos:Concept ;
-    skos:broader <bio001/bb7ad5d0-8b8b-4ba5-a321-b89bd3ae0478> ;
-    skos:inScheme <> ;
-    skos:notation "1.3.1.6" ;
-    skos:prefLabel "F 3.6 beschreiben und erklären Verlauf und Ursachen der Evolution an ausgewählten Lebewesen,"@de .
-
-<bio001/cacb3af3-997d-4812-8607-a51a6f01eb2f> a skos:Concept ;
-    skos:broader <bio001/49fb9247-4c57-41ab-960e-725d0454e2c6> ;
-    skos:inScheme <> ;
-    skos:notation "1.1.1.7" ;
-    skos:prefLabel "F 1.7 beschreiben Wechselwirkungen zwischen Biosphäre und den anderen Sphären der Erde,"@de .
-
-<bio001/ccabe44d-8afb-454c-a934-eef22ff142e7> a skos:Concept ;
-    skos:broader <bio001/0837cdc0-3182-4428-91a3-3756a437b0e7> ;
-    skos:inScheme <> ;
-    skos:notation "1.2.1.3" ;
-    skos:prefLabel "F 2.3 stellen strukturelle und funktionelle Gemeinsamkeiten und Unterschiede von Organismen und Organismengruppen dar,"@de .
-
-<bio001/d3a4e650-811a-456e-8efd-103ca31a2ffa> a skos:Concept ;
-    skos:broader <bio001/bb7ad5d0-8b8b-4ba5-a321-b89bd3ae0478> ;
-    skos:inScheme <> ;
-    skos:notation "1.3.1.8" ;
-    skos:prefLabel "F 3.8 kennen und erörtern Eingriffe des Menschen in die Natur und Kriterien für solche Entscheidungen."@de .
-
-<bio001/dfb75646-a8c3-4e34-9db9-7b8ac2751061> a skos:Concept ;
-    skos:broader <bio001/bb7ad5d0-8b8b-4ba5-a321-b89bd3ae0478> ;
-    skos:inScheme <> ;
-    skos:notation "1.3.1.5" ;
-    skos:prefLabel "F 3.5 beschreiben und erklären stammesgeschichtliche Verwandtschaft von Organismen,"@de .
-
-<bio001/f9fd8f2b-4fd2-4778-bc6a-c70079b6b74c> a skos:Concept ;
-    skos:broader <bio001/49fb9247-4c57-41ab-960e-725d0454e2c6> ;
+<bio001/26341c4a-5532-48d2-95eb-11a453dcd7e6> a skos:Concept ;
+    skos:broader <bio001/f1fd239c-854e-44cf-83d0-924cbcb1f8aa> ;
     skos:inScheme <> ;
     skos:notation "1.1.1.1" ;
     skos:prefLabel "F 1.1 verstehen die Zelle als System,"@de .
 
-<bio002/16017c69-5025-49fb-a066-80415e1156b9> a skos:Concept ;
-    skos:broader <bio002/ec467837-37de-48a8-9cd5-c6d6322ab147> ;
+<bio001/27f59799-a576-4866-b953-7205ef089391> a skos:Concept ;
+    skos:broader <bio001/78de89c4-4371-442e-96f5-0e3dcb9cb20d> ;
     skos:inScheme <> ;
-    skos:notation "2.1.1" ;
-    skos:prefLabel "E 1 mikroskopieren Zellen und stellen sie in einer Zeichnung dar,"@de .
+    skos:notation "1.3.1.4" ;
+    skos:prefLabel "F 3.4 beschreiben ein Ökosystem in zeitlicher Veränderung,"@de .
 
-<bio002/1d9880b8-be16-4904-a4bb-557448a2db5e> a skos:Concept ;
-    skos:broader <bio002/ec467837-37de-48a8-9cd5-c6d6322ab147> ;
+<bio001/2dc58067-b984-4e85-8084-783b7fdfea2d> a skos:Concept ;
+    skos:broader <bio001/78de89c4-4371-442e-96f5-0e3dcb9cb20d> ;
     skos:inScheme <> ;
-    skos:notation "2.1.12" ;
-    skos:prefLabel "E 12 erklären dynamische Prozesse in Ökosystemen mithilfe von Modellvorstellungen,"@de .
+    skos:notation "1.3.1.8" ;
+    skos:prefLabel "F 3.8 kennen und erörtern Eingriffe des Menschen in die Natur und Kriterien für solche Entscheidungen."@de .
 
-<bio002/4dd63c1b-35dc-4365-955a-52a5c951174c> a skos:Concept ;
-    skos:broader <bio002/ec467837-37de-48a8-9cd5-c6d6322ab147> ;
+<bio001/57ec43b1-c6ab-4bae-b2dc-b556c676908f> a skos:Concept ;
+    skos:broader <bio001/87e04c58-fabd-492c-ab7e-8b5436e702e2> ;
     skos:inScheme <> ;
-    skos:notation "2.1.5" ;
-    skos:prefLabel "E 5 führen Untersuchungen mit geeigneten qualifizierenden oder quantifizierenden Verfahren durch,"@de .
+    skos:notation "1.2.1.6" ;
+    skos:prefLabel "F 2.6 beschreiben und erklären die Angepasstheit ausgewählter Organismen an die Umwelt."@de .
 
-<bio002/4f3d8765-4b15-449a-9198-cffbba5f996f> a skos:Concept ;
-    skos:broader <bio002/ec467837-37de-48a8-9cd5-c6d6322ab147> ;
+<bio001/63588402-726e-4662-8a8c-c71654343537> a skos:Concept ;
+    skos:broader <bio001/78de89c4-4371-442e-96f5-0e3dcb9cb20d> ;
     skos:inScheme <> ;
-    skos:notation "2.1.2" ;
-    skos:prefLabel "E 2 beschreiben und vergleichen Anatomie und Morphologie von Organismen,"@de .
+    skos:notation "1.3.1.5" ;
+    skos:prefLabel "F 3.5 beschreiben und erklären stammesgeschichtliche Verwandtschaft von Organismen,"@de .
 
-<bio002/52453f41-b5b1-44cf-94ae-3da1d4db683d> a skos:Concept ;
-    skos:broader <bio002/ec467837-37de-48a8-9cd5-c6d6322ab147> ;
+<bio001/6b96bc9b-439a-4938-83c6-1caa8ec34bb4> a skos:Concept ;
+    skos:broader <bio001/87e04c58-fabd-492c-ab7e-8b5436e702e2> ;
     skos:inScheme <> ;
-    skos:notation "2.1.13" ;
-    skos:prefLabel "E 13 beurteilen die Aussagekraft eines Modells."@de .
+    skos:notation "1.2.1.3" ;
+    skos:prefLabel "F 2.3 stellen strukturelle und funktionelle Gemeinsamkeiten und Unterschiede von Organismen und Organismengruppen dar,"@de .
 
-<bio002/64c2404b-d4d7-4178-8049-7e0fab8f17b4> a skos:Concept ;
-    skos:broader <bio002/ec467837-37de-48a8-9cd5-c6d6322ab147> ;
+<bio001/6ecd7dba-3912-4b5a-8334-364713f17438> a skos:Concept ;
+    skos:broader <bio001/78de89c4-4371-442e-96f5-0e3dcb9cb20d> ;
     skos:inScheme <> ;
-    skos:notation "2.1.6" ;
-    skos:prefLabel "E 6 planen einfache Experimente, führen die Experimente durch und/oder werten sie aus,"@de .
+    skos:notation "1.3.1.3" ;
+    skos:prefLabel "F 3.3 beschreiben verschiedene Formen der Fortpflanzung,"@de .
 
-<bio002/85eeea3a-6f96-4c66-9b3f-c12e5f45771f> a skos:Concept ;
-    skos:broader <bio002/ec467837-37de-48a8-9cd5-c6d6322ab147> ;
+<bio001/6ee0244e-43e2-46ac-b7fd-5f5131802114> a skos:Concept ;
+    skos:broader <bio001/87e04c58-fabd-492c-ab7e-8b5436e702e2> ;
     skos:inScheme <> ;
-    skos:notation "2.1.3" ;
-    skos:prefLabel "E 3 analysieren die stammesgeschichtliche Verwandtschaft bzw. ökologisch bedingte Ähnlichkeit bei Organismen durch kriteriengeleitetes Vergleichen,"@de .
+    skos:notation "1.2.1.4" ;
+    skos:prefLabel "F 2.4 beschreiben und erklären Struktur und Funktion von Organen und Organsystemen, z. B. bei der Stoff- und Energieumwandlung, Steuerung und Regelung, Informationsverarbeitung, Vererbung und Reproduktion,"@de .
 
-<bio002/9490eddb-a140-4ab0-9d4b-764cbb1fe0b2> a skos:Concept ;
-    skos:broader <bio002/ec467837-37de-48a8-9cd5-c6d6322ab147> ;
+<bio001/70a9870f-9dc5-4d86-9c13-e869453a2a51> a skos:Concept ;
+    skos:broader <bio001/87e04c58-fabd-492c-ab7e-8b5436e702e2> ;
     skos:inScheme <> ;
-    skos:notation "2.1.10" ;
-    skos:prefLabel "E 10 analysieren Wechselwirkungen mit Hilfe von Modellen,"@de .
+    skos:notation "1.2.1.2" ;
+    skos:prefLabel "F 2.2 vergleichen die bakterielle, pflanzliche und tierliche Zelle in Struktur und Funktion,"@de .
 
-<bio002/a6cb1891-00ff-4034-8164-b8643d37685b> a skos:Concept ;
-    skos:broader <bio002/ec467837-37de-48a8-9cd5-c6d6322ab147> ;
+<bio001/75548aa0-77ff-4092-a309-155603138950> a skos:Concept ;
+    skos:broader <bio001/f1fd239c-854e-44cf-83d0-924cbcb1f8aa> ;
+    skos:inScheme <> ;
+    skos:notation "1.1.1.8" ;
+    skos:prefLabel "F 1.8 kennen und verstehen die grundlegenden Kriterien von nachhaltiger Entwicklung."@de .
+
+<bio001/81bfaa90-9c5e-4bc3-89ad-27a22b3e83ea> a skos:Concept ;
+    skos:broader <bio001/f1fd239c-854e-44cf-83d0-924cbcb1f8aa> ;
+    skos:inScheme <> ;
+    skos:notation "1.1.1.3" ;
+    skos:prefLabel "F 1.3 erklären Ökosystem und Biosphäre als System,"@de .
+
+<bio001/8a78e43e-cbe2-4aca-b9a8-218f15e18090> a skos:Concept ;
+    skos:broader <bio001/f1fd239c-854e-44cf-83d0-924cbcb1f8aa> ;
+    skos:inScheme <> ;
+    skos:notation "1.1.1.7" ;
+    skos:prefLabel "F 1.7 beschreiben Wechselwirkungen zwischen Biosphäre und den anderen Sphären der Erde,"@de .
+
+<bio001/8d8e681f-a2f9-47b9-aad0-564b13dc7f35> a skos:Concept ;
+    skos:broader <bio001/78de89c4-4371-442e-96f5-0e3dcb9cb20d> ;
+    skos:inScheme <> ;
+    skos:notation "1.3.1.7" ;
+    skos:prefLabel "F 3.7 erklären die Variabilität von Lebewesen,"@de .
+
+<bio001/8f1af06b-8cbb-4b41-8867-358629e9cbb4> a skos:Concept ;
+    skos:broader <bio001/78de89c4-4371-442e-96f5-0e3dcb9cb20d> ;
+    skos:inScheme <> ;
+    skos:notation "1.3.1.2" ;
+    skos:prefLabel "F 3.2 beschreiben die artspezifische Individualentwicklung von Organismen,"@de .
+
+<bio001/98c56a55-cdbc-4e56-91e1-79335f481cb7> a skos:Concept ;
+    skos:broader <bio001/f1fd239c-854e-44cf-83d0-924cbcb1f8aa> ;
+    skos:inScheme <> ;
+    skos:notation "1.1.1.2" ;
+    skos:prefLabel "F 1.2 erklären den Organismus und Organismengruppen als System,"@de .
+
+<bio001/9eed25bd-a32d-43be-b123-9ac9c8f47154> a skos:Concept ;
+    skos:broader <bio001/f1fd239c-854e-44cf-83d0-924cbcb1f8aa> ;
+    skos:inScheme <> ;
+    skos:notation "1.1.1.4" ;
+    skos:prefLabel "F 1.4 beschreiben und erklären Wechselwirkungen im Organismus, zwischen Organismen sowie zwischen Organismen und unbelebter Materie,"@de .
+
+<bio001/ad149d8a-c22a-42a5-b4fb-6171d8c5365e> a skos:Concept ;
+    skos:broader <bio001/87e04c58-fabd-492c-ab7e-8b5436e702e2> ;
+    skos:inScheme <> ;
+    skos:notation "1.2.1.5" ;
+    skos:prefLabel "F 2.5 beschreiben die strukturelle und funktionelle Organisation im Ökosystem,"@de .
+
+<bio001/d3c3dca2-86fd-4c83-a3b9-e9ec40a3bf01> a skos:Concept ;
+    skos:broader <bio001/78de89c4-4371-442e-96f5-0e3dcb9cb20d> ;
+    skos:inScheme <> ;
+    skos:notation "1.3.1.1" ;
+    skos:prefLabel "F 3.1 erläutern die Bedeutung der Zellteilung für Wachstum, Fortpflanzung und Vermehrung,"@de .
+
+<bio001/d961e189-5df3-4cc6-9e65-729a50d1cca5> a skos:Concept ;
+    skos:broader <bio001/f1fd239c-854e-44cf-83d0-924cbcb1f8aa> ;
+    skos:inScheme <> ;
+    skos:notation "1.1.1.5" ;
+    skos:prefLabel "F 1.5 wechseln zwischen den Systemebenen,"@de .
+
+<bio001/e156addd-17ee-488f-820c-85ad5e03a092> a skos:Concept ;
+    skos:broader <bio001/87e04c58-fabd-492c-ab7e-8b5436e702e2> ;
+    skos:inScheme <> ;
+    skos:notation "1.2.1.1" ;
+    skos:prefLabel "F 2.1 beschreiben Zellen als strukturelle und funktionelle Grundbaueinheiten von Lebewesen,"@de .
+
+<bio001/f82a89cb-ba06-4c72-aa30-41f404a170a2> a skos:Concept ;
+    skos:broader <bio001/78de89c4-4371-442e-96f5-0e3dcb9cb20d> ;
+    skos:inScheme <> ;
+    skos:notation "1.3.1.6" ;
+    skos:prefLabel "F 3.6 beschreiben und erklären Verlauf und Ursachen der Evolution an ausgewählten Lebewesen,"@de .
+
+<bio002/03121466-8b1a-483f-9a6f-d6d26250b377> a skos:Concept ;
+    skos:broader <bio002/e0b649b3-af80-4dfb-80c4-2168e1afcd88> ;
     skos:inScheme <> ;
     skos:notation "2.1.11" ;
     skos:prefLabel "E 11 beschreiben Speicherung und Weitergabe genetischer Information auch unter Anwendung geeigneter Modelle,"@de .
 
-<bio002/afd7c9db-5eec-4ea9-9669-aed08a0543bc> a skos:Concept ;
-    skos:broader <bio002/ec467837-37de-48a8-9cd5-c6d6322ab147> ;
-    skos:inScheme <> ;
-    skos:notation "2.1.9" ;
-    skos:prefLabel "E 9 wenden Modelle zur Veranschaulichung von Struktur und Funktion an,"@de .
-
-<bio002/b9297cd2-bab5-4176-ad49-0f33847f7e7f> a skos:Concept ;
-    skos:broader <bio002/ec467837-37de-48a8-9cd5-c6d6322ab147> ;
-    skos:inScheme <> ;
-    skos:notation "2.1.7" ;
-    skos:prefLabel "E 7 wenden Schritte aus dem experimentellen Weg der Erkenntnisgewinnung zur Erklärung an,"@de .
-
-<bio002/bff080af-cdb5-4a6d-b05f-7d6fb0d28b46> a skos:Concept ;
-    skos:broader <bio002/ec467837-37de-48a8-9cd5-c6d6322ab147> ;
-    skos:inScheme <> ;
-    skos:notation "2.1.8" ;
-    skos:prefLabel "E 8 erörtern Tragweite und Grenzen von Untersuchungsanlage, -schritten und -ergebnissen,"@de .
-
-<bio002/d169abc5-972d-45f6-9e71-40229c89ff48> a skos:Concept ;
-    skos:broader <bio002/ec467837-37de-48a8-9cd5-c6d6322ab147> ;
+<bio002/0c9175fc-5e87-461e-b1d6-aacaac183df9> a skos:Concept ;
+    skos:broader <bio002/e0b649b3-af80-4dfb-80c4-2168e1afcd88> ;
     skos:inScheme <> ;
     skos:notation "2.1.4" ;
     skos:prefLabel "E 4 ermitteln mithilfe geeigneter Bestimmungsliteratur im Ökosystem häufig vorkommende Arten,"@de .
 
-<bio003/28a7b491-4ad6-4cb0-8306-20fb40703859> a skos:Concept ;
-    skos:broader <bio003/cd687d7a-884f-4984-a1cb-6dd696559b6b> ;
+<bio002/1050ca91-5db4-4d75-bca5-67235f412806> a skos:Concept ;
+    skos:broader <bio002/e0b649b3-af80-4dfb-80c4-2168e1afcd88> ;
     skos:inScheme <> ;
-    skos:notation "3.1.6" ;
-    skos:prefLabel "K 6 stellen Ergebnisse und Methoden biologischer Untersuchung dar und argumentieren damit,"@de .
+    skos:notation "2.1.10" ;
+    skos:prefLabel "E 10 analysieren Wechselwirkungen mit Hilfe von Modellen,"@de .
 
-<bio003/31a7b317-56f9-4bbb-b363-3be34ee23458> a skos:Concept ;
-    skos:broader <bio003/cd687d7a-884f-4984-a1cb-6dd696559b6b> ;
+<bio002/1bbfc1f9-d334-441b-97ba-00bb54a71605> a skos:Concept ;
+    skos:broader <bio002/e0b649b3-af80-4dfb-80c4-2168e1afcd88> ;
     skos:inScheme <> ;
-    skos:notation "3.1.3" ;
-    skos:prefLabel "K 3 veranschaulichen Daten messbarer Größen zu Systemen, Struktur und Funktion sowie Entwicklung angemessen mit sprachlichen, mathematischen oder bildlichen Gestaltungsmitteln,"@de .
+    skos:notation "2.1.5" ;
+    skos:prefLabel "E 5 führen Untersuchungen mit geeigneten qualifizierenden oder quantifizierenden Verfahren durch,"@de .
 
-<bio003/447242b1-a615-4304-bfed-b56349a85033> a skos:Concept ;
-    skos:broader <bio003/cd687d7a-884f-4984-a1cb-6dd696559b6b> ;
+<bio002/3829235b-5c5d-48a6-9100-5b5fd30360aa> a skos:Concept ;
+    skos:broader <bio002/e0b649b3-af80-4dfb-80c4-2168e1afcd88> ;
     skos:inScheme <> ;
-    skos:notation "3.1.8" ;
-    skos:prefLabel "K 8 erklären biologische Phänomene und setzen Alltagsvorstellungen dazu in Beziehung,"@de .
+    skos:notation "2.1.1" ;
+    skos:prefLabel "E 1 mikroskopieren Zellen und stellen sie in einer Zeichnung dar,"@de .
 
-<bio003/51980c0e-16ad-485c-8392-0da3de0bcc31> a skos:Concept ;
-    skos:broader <bio003/cd687d7a-884f-4984-a1cb-6dd696559b6b> ;
+<bio002/415c0548-b5f7-48d4-b1f1-44db2b66da3a> a skos:Concept ;
+    skos:broader <bio002/e0b649b3-af80-4dfb-80c4-2168e1afcd88> ;
     skos:inScheme <> ;
-    skos:notation "3.1.9" ;
-    skos:prefLabel "K 9 beschreiben und erklären den Bedeutungsgehalt von fachsprachlichen bzw. alltagssprachlichen Texten und von Bildern in strukturierter sprachlicher Darstellung,"@de .
+    skos:notation "2.1.2" ;
+    skos:prefLabel "E 2 beschreiben und vergleichen Anatomie und Morphologie von Organismen,"@de .
 
-<bio003/5909cf1a-2bd4-48a2-acf6-1b6bbefeb15b> a skos:Concept ;
-    skos:broader <bio003/cd687d7a-884f-4984-a1cb-6dd696559b6b> ;
+<bio002/656ac71b-d23d-4aea-b459-4e450bc327ec> a skos:Concept ;
+    skos:broader <bio002/e0b649b3-af80-4dfb-80c4-2168e1afcd88> ;
     skos:inScheme <> ;
-    skos:notation "3.1.1" ;
-    skos:prefLabel "K 1 kommunizieren und argumentieren in verschiedenen Sozialformen,"@de .
+    skos:notation "2.1.8" ;
+    skos:prefLabel "E 8 erörtern Tragweite und Grenzen von Untersuchungsanlage, -schritten und -ergebnissen,"@de .
 
-<bio003/5ddd3dcf-d557-4d37-9518-851766796b6e> a skos:Concept ;
-    skos:broader <bio003/cd687d7a-884f-4984-a1cb-6dd696559b6b> ;
+<bio002/7a73e393-b9b0-414d-a1bf-2f902c025f37> a skos:Concept ;
+    skos:broader <bio002/e0b649b3-af80-4dfb-80c4-2168e1afcd88> ;
+    skos:inScheme <> ;
+    skos:notation "2.1.9" ;
+    skos:prefLabel "E 9 wenden Modelle zur Veranschaulichung von Struktur und Funktion an,"@de .
+
+<bio002/88ce70cb-a5b2-483f-aa4e-e616e12833a4> a skos:Concept ;
+    skos:broader <bio002/e0b649b3-af80-4dfb-80c4-2168e1afcd88> ;
+    skos:inScheme <> ;
+    skos:notation "2.1.13" ;
+    skos:prefLabel "E 13 beurteilen die Aussagekraft eines Modells."@de .
+
+<bio002/b360d490-70a8-4181-a677-233cace44974> a skos:Concept ;
+    skos:broader <bio002/e0b649b3-af80-4dfb-80c4-2168e1afcd88> ;
+    skos:inScheme <> ;
+    skos:notation "2.1.12" ;
+    skos:prefLabel "E 12 erklären dynamische Prozesse in Ökosystemen mithilfe von Modellvorstellungen,"@de .
+
+<bio002/b4ab56d6-c714-4ae0-86c9-41e7bab3d39b> a skos:Concept ;
+    skos:broader <bio002/e0b649b3-af80-4dfb-80c4-2168e1afcd88> ;
+    skos:inScheme <> ;
+    skos:notation "2.1.3" ;
+    skos:prefLabel "E 3 analysieren die stammesgeschichtliche Verwandtschaft bzw. ökologisch bedingte Ähnlichkeit bei Organismen durch kriteriengeleitetes Vergleichen,"@de .
+
+<bio002/be38d501-b39c-420f-ab95-a590c6ffa0a8> a skos:Concept ;
+    skos:broader <bio002/e0b649b3-af80-4dfb-80c4-2168e1afcd88> ;
+    skos:inScheme <> ;
+    skos:notation "2.1.6" ;
+    skos:prefLabel "E 6 planen einfache Experimente, führen die Experimente durch und/oder werten sie aus,"@de .
+
+<bio002/e9be5fdf-c819-49af-9736-94924f9318b7> a skos:Concept ;
+    skos:broader <bio002/e0b649b3-af80-4dfb-80c4-2168e1afcd88> ;
+    skos:inScheme <> ;
+    skos:notation "2.1.7" ;
+    skos:prefLabel "E 7 wenden Schritte aus dem experimentellen Weg der Erkenntnisgewinnung zur Erklärung an,"@de .
+
+<bio003/510ecc54-fd3f-4814-ae49-5286f95387b2> a skos:Concept ;
+    skos:broader <bio003/c0d32851-5031-4dbb-87f5-9f5d51025c09> ;
     skos:inScheme <> ;
     skos:notation "3.1.2" ;
     skos:prefLabel "K 2 beschreiben und erklären Originale oder naturgetreue Abbildungen mit Zeichnungen oder idealtypischen Bildern,"@de .
 
-<bio003/b3cd889d-2422-4eb8-955d-7aaa288a9d0c> a skos:Concept ;
-    skos:broader <bio003/cd687d7a-884f-4984-a1cb-6dd696559b6b> ;
+<bio003/8b4b8831-34a0-4c93-9f32-a263e0829609> a skos:Concept ;
+    skos:broader <bio003/c0d32851-5031-4dbb-87f5-9f5d51025c09> ;
     skos:inScheme <> ;
     skos:notation "3.1.10" ;
     skos:prefLabel "K 10 wenden idealtypische Darstellungen, Schemazeichnungen, Diagramme und Symbolsprache auf komplexe Sachverhalte an."@de .
 
-<bio003/b433bcca-07b7-4296-98a8-757eab6bdb44> a skos:Concept ;
-    skos:broader <bio003/cd687d7a-884f-4984-a1cb-6dd696559b6b> ;
+<bio003/a996c808-3c5e-4c80-8208-d745790bde3f> a skos:Concept ;
+    skos:broader <bio003/c0d32851-5031-4dbb-87f5-9f5d51025c09> ;
     skos:inScheme <> ;
-    skos:notation "3.1.7" ;
-    skos:prefLabel "K 7 referieren zu gesellschafts- oder alltagsrelevanten biologischen Themen,"@de .
+    skos:notation "3.1.3" ;
+    skos:prefLabel "K 3 veranschaulichen Daten messbarer Größen zu Systemen, Struktur und Funktion sowie Entwicklung angemessen mit sprachlichen, mathematischen oder bildlichen Gestaltungsmitteln,"@de .
 
-<bio003/c6a502ca-5ce6-49de-a9e3-8fa0b87d7477> a skos:Concept ;
-    skos:broader <bio003/cd687d7a-884f-4984-a1cb-6dd696559b6b> ;
+<bio003/a9f58633-d0a9-4e26-8286-df528e05a034> a skos:Concept ;
+    skos:broader <bio003/c0d32851-5031-4dbb-87f5-9f5d51025c09> ;
+    skos:inScheme <> ;
+    skos:notation "3.1.1" ;
+    skos:prefLabel "K 1 kommunizieren und argumentieren in verschiedenen Sozialformen,"@de .
+
+<bio003/ad69d504-3740-4b27-ba01-5b67220fcb82> a skos:Concept ;
+    skos:broader <bio003/c0d32851-5031-4dbb-87f5-9f5d51025c09> ;
+    skos:inScheme <> ;
+    skos:notation "3.1.9" ;
+    skos:prefLabel "K 9 beschreiben und erklären den Bedeutungsgehalt von fachsprachlichen bzw. alltagssprachlichen Texten und von Bildern in strukturierter sprachlicher Darstellung,"@de .
+
+<bio003/b38fa405-6c9e-4ffa-b933-3806516bdcdc> a skos:Concept ;
+    skos:broader <bio003/c0d32851-5031-4dbb-87f5-9f5d51025c09> ;
+    skos:inScheme <> ;
+    skos:notation "3.1.6" ;
+    skos:prefLabel "K 6 stellen Ergebnisse und Methoden biologischer Untersuchung dar und argumentieren damit,"@de .
+
+<bio003/c0d08024-e59e-4761-a890-454361ad1da6> a skos:Concept ;
+    skos:broader <bio003/c0d32851-5031-4dbb-87f5-9f5d51025c09> ;
     skos:inScheme <> ;
     skos:notation "3.1.5" ;
     skos:prefLabel "K 5 stellen biologische Systeme, z. B. Organismen, sachgerecht, situationsgerecht und adressatengerecht dar,"@de .
 
-<bio003/e6831545-b144-405d-9883-de500bb02b54> a skos:Concept ;
-    skos:broader <bio003/cd687d7a-884f-4984-a1cb-6dd696559b6b> ;
+<bio003/dc678130-3d3e-4bb5-969c-88ad22736d67> a skos:Concept ;
+    skos:broader <bio003/c0d32851-5031-4dbb-87f5-9f5d51025c09> ;
+    skos:inScheme <> ;
+    skos:notation "3.1.8" ;
+    skos:prefLabel "K 8 erklären biologische Phänomene und setzen Alltagsvorstellungen dazu in Beziehung,"@de .
+
+<bio003/ddc7523d-0383-4e2c-a256-f8a236dba058> a skos:Concept ;
+    skos:broader <bio003/c0d32851-5031-4dbb-87f5-9f5d51025c09> ;
     skos:inScheme <> ;
     skos:notation "3.1.4" ;
     skos:prefLabel "K 4 werten Informationen zu biologischen Fragestellungen aus verschiedenen Quellen zielgerichtet aus und verarbeiten diese auch mit Hilfe verschiedener Techniken und Methoden adressaten- und situationsgerecht,"@de .
 
-<bio004/3b477296-3f09-4ef1-bc11-dd448ebed614> a skos:Concept ;
-    skos:broader <bio004/4bdb85d3-4bb7-49a9-8a63-898418781856> ;
+<bio003/f3bedd64-418d-4088-bca1-280af34c42b3> a skos:Concept ;
+    skos:broader <bio003/c0d32851-5031-4dbb-87f5-9f5d51025c09> ;
+    skos:inScheme <> ;
+    skos:notation "3.1.7" ;
+    skos:prefLabel "K 7 referieren zu gesellschafts- oder alltagsrelevanten biologischen Themen,"@de .
+
+<bio004/1009cc79-94e5-46fd-9006-836f40c7e1f5> a skos:Concept ;
+    skos:broader <bio004/4046fc69-4ea4-46aa-8b64-04b375f9a65d> ;
     skos:inScheme <> ;
     skos:notation "4.1.7" ;
     skos:prefLabel "B 7 erörtern Handlungsoptionen einer umwelt- und naturverträglichen Teilhabe im Sinne der Nachhaltigkeit."@de .
 
-<bio004/6f633945-e081-4f1c-b996-f9636c4a6454> a skos:Concept ;
-    skos:broader <bio004/4bdb85d3-4bb7-49a9-8a63-898418781856> ;
-    skos:inScheme <> ;
-    skos:notation "4.1.4" ;
-    skos:prefLabel "B 4 beschreiben und beurteilen die Haltung von Heim- und Nutztieren,"@de .
-
-<bio004/bbfaa4ce-c196-428e-a2bb-d27eafc7bc36> a skos:Concept ;
-    skos:broader <bio004/4bdb85d3-4bb7-49a9-8a63-898418781856> ;
+<bio004/5c5237ee-2779-4ead-aaab-10783ae616f7> a skos:Concept ;
+    skos:broader <bio004/4046fc69-4ea4-46aa-8b64-04b375f9a65d> ;
     skos:inScheme <> ;
     skos:notation "4.1.1" ;
     skos:prefLabel "B 1 unterscheiden zwischen beschreibenden (naturwissenschaftlichen) und normativen (ethischen) Aussagen,"@de .
 
-<bio004/bd0bc9da-8818-4bfc-b5ac-a037c27e34fb> a skos:Concept ;
-    skos:broader <bio004/4bdb85d3-4bb7-49a9-8a63-898418781856> ;
+<bio004/6b2f2377-121b-4884-9e35-9b84faeb3728> a skos:Concept ;
+    skos:broader <bio004/4046fc69-4ea4-46aa-8b64-04b375f9a65d> ;
     skos:inScheme <> ;
     skos:notation "4.1.6" ;
     skos:prefLabel "B 6 bewerten die Beeinflussung globaler Kreisläufe und Stoffströme unter dem Aspekt der nachhaltigen Entwicklung,"@de .
 
-<bio004/cec25899-e801-4f33-bea4-c38dd4934688> a skos:Concept ;
-    skos:broader <bio004/4bdb85d3-4bb7-49a9-8a63-898418781856> ;
+<bio004/9fb3a6c6-d1ca-48a5-9341-f68cb8bc7636> a skos:Concept ;
+    skos:broader <bio004/4046fc69-4ea4-46aa-8b64-04b375f9a65d> ;
     skos:inScheme <> ;
     skos:notation "4.1.2" ;
     skos:prefLabel "B 2 beurteilen verschiedene Maßnahmen und Verhaltensweisen zur Erhaltung der eigenen Gesundheit und zur sozialen Verantwortung,"@de .
 
-<bio004/df70e7c0-46d9-4021-b582-3618fa56ea74> a skos:Concept ;
-    skos:broader <bio004/4bdb85d3-4bb7-49a9-8a63-898418781856> ;
+<bio004/a8882e6b-9e08-4c7a-b918-dec2f4da46bf> a skos:Concept ;
+    skos:broader <bio004/4046fc69-4ea4-46aa-8b64-04b375f9a65d> ;
+    skos:inScheme <> ;
+    skos:notation "4.1.4" ;
+    skos:prefLabel "B 4 beschreiben und beurteilen die Haltung von Heim- und Nutztieren,"@de .
+
+<bio004/bdcd59c4-cc77-4720-a60b-2eb582a3c30e> a skos:Concept ;
+    skos:broader <bio004/4046fc69-4ea4-46aa-8b64-04b375f9a65d> ;
     skos:inScheme <> ;
     skos:notation "4.1.3" ;
     skos:prefLabel "B 3 beschreiben und beurteilen Erkenntnisse und Methoden in ausgewählten aktuellen Bezügen wie zu Medizin, Biotechnik und Gentechnik, und zwar unter Berücksichtigung gesellschaftlich verhandelbarer Werte,"@de .
 
-<bio004/fe0decf2-6bd4-45ec-8777-5989e27c94dd> a skos:Concept ;
-    skos:broader <bio004/4bdb85d3-4bb7-49a9-8a63-898418781856> ;
+<bio004/ce33a516-ec8a-47d7-ba46-fa08ab119ebf> a skos:Concept ;
+    skos:broader <bio004/4046fc69-4ea4-46aa-8b64-04b375f9a65d> ;
     skos:inScheme <> ;
     skos:notation "4.1.5" ;
     skos:prefLabel "B 5 beschreiben und beurteilen die Auswirkungen menschlicher Eingriffe in einem Ökosystem,"@de .
 
-<bio001/4242539f-7a33-44e4-b6ee-d1693a553c54> a skos:Concept ;
+<bio001/44c216b2-3fb6-4041-ac59-0297e6f60e6f> a skos:Concept ;
     skos:broader <bio001> ;
     skos:inScheme <> ;
-    skos:narrower <bio001/0837cdc0-3182-4428-91a3-3756a437b0e7> ;
+    skos:narrower <bio001/87e04c58-fabd-492c-ab7e-8b5436e702e2> ;
     skos:notation "1.2" ;
     skos:prefLabel "Struktur und Funktion"@de .
 
-<bio001/7af61a6b-538f-4a89-a234-58a6a8c986d0> a skos:Concept ;
+<bio001/ac5479c3-96f3-465b-8b25-84b0ec5c8073> a skos:Concept ;
     skos:broader <bio001> ;
     skos:inScheme <> ;
-    skos:narrower <bio001/49fb9247-4c57-41ab-960e-725d0454e2c6> ;
-    skos:notation "1.1" ;
-    skos:prefLabel "System"@de .
-
-<bio001/94a03de1-c11e-4f4d-8f38-02853b413bce> a skos:Concept ;
-    skos:broader <bio001> ;
-    skos:inScheme <> ;
-    skos:narrower <bio001/bb7ad5d0-8b8b-4ba5-a321-b89bd3ae0478> ;
+    skos:narrower <bio001/78de89c4-4371-442e-96f5-0e3dcb9cb20d> ;
     skos:notation "1.3" ;
     skos:prefLabel "Entwicklung"@de .
 
+<bio001/af5e1a0a-ed9c-4f49-8be5-915c3a38ea71> a skos:Concept ;
+    skos:broader <bio001> ;
+    skos:inScheme <> ;
+    skos:narrower <bio001/f1fd239c-854e-44cf-83d0-924cbcb1f8aa> ;
+    skos:notation "1.1" ;
+    skos:prefLabel "System"@de .
+
 <bio002> a skos:Concept ;
     skos:definition "Beobachten, Vergleichen, Experimentieren, Modelle nutzen und Arbeitstechniken anwenden"@de ;
-    skos:narrower <bio002/ec467837-37de-48a8-9cd5-c6d6322ab147> ;
+    skos:narrower <bio002/e0b649b3-af80-4dfb-80c4-2168e1afcd88> ;
     skos:prefLabel "Erkenntnisgewinnung"@de ;
     skos:topConceptOf <> .
 
 <bio003> a skos:Concept ;
     skos:definition "Informationen sach- und fachbezogen erschließen und austauschen"@de ;
-    skos:narrower <bio003/cd687d7a-884f-4984-a1cb-6dd696559b6b> ;
+    skos:narrower <bio003/c0d32851-5031-4dbb-87f5-9f5d51025c09> ;
     skos:prefLabel "Kommunikation"@de ;
     skos:topConceptOf <> .
 
 <bio004> a skos:Concept ;
     skos:definition "Biologische Sachverhalte in verschiedenen Kontexten erkennen und bewerten"@de ;
-    skos:narrower <bio004/4bdb85d3-4bb7-49a9-8a63-898418781856> ;
+    skos:narrower <bio004/4046fc69-4ea4-46aa-8b64-04b375f9a65d> ;
     skos:prefLabel "Bewertung"@de ;
     skos:topConceptOf <> .
 
 <bio001> a skos:Concept ;
     skos:definition "Lebewesen, biologische Phänomene, Begriffe, Prinzipien und Fakten kennen und den Basiskonzepten zuordnen"@de ;
-    skos:narrower <bio001/4242539f-7a33-44e4-b6ee-d1693a553c54>,
-        <bio001/7af61a6b-538f-4a89-a234-58a6a8c986d0>,
-        <bio001/94a03de1-c11e-4f4d-8f38-02853b413bce> ;
+    skos:narrower <bio001/44c216b2-3fb6-4041-ac59-0297e6f60e6f>,
+        <bio001/ac5479c3-96f3-465b-8b25-84b0ec5c8073>,
+        <bio001/af5e1a0a-ed9c-4f49-8be5-915c3a38ea71> ;
     skos:prefLabel "Fachwissen"@de ;
     skos:topConceptOf <> .
 
-<bio001/0837cdc0-3182-4428-91a3-3756a437b0e7> a skos:Concept ;
-    skos:broader <bio001/4242539f-7a33-44e4-b6ee-d1693a553c54> ;
+<bio001/87e04c58-fabd-492c-ab7e-8b5436e702e2> a skos:Concept ;
+    skos:broader <bio001/44c216b2-3fb6-4041-ac59-0297e6f60e6f> ;
     skos:inScheme <> ;
-    skos:narrower <bio001/28e9547d-1239-48c0-8a81-d8d138e42c05>,
-        <bio001/47684685-8794-4739-9752-8e9de54303c7>,
-        <bio001/7b2ff5a1-155a-45e2-9026-f8d594baa3e6>,
-        <bio001/a4f5fc20-478d-441f-8799-7566610fe162>,
-        <bio001/a74404fd-76c1-4c8c-a428-2a579a44039b>,
-        <bio001/ccabe44d-8afb-454c-a934-eef22ff142e7> ;
+    skos:narrower <bio001/57ec43b1-c6ab-4bae-b2dc-b556c676908f>,
+        <bio001/6b96bc9b-439a-4938-83c6-1caa8ec34bb4>,
+        <bio001/6ee0244e-43e2-46ac-b7fd-5f5131802114>,
+        <bio001/70a9870f-9dc5-4d86-9c13-e869453a2a51>,
+        <bio001/ad149d8a-c22a-42a5-b4fb-6171d8c5365e>,
+        <bio001/e156addd-17ee-488f-820c-85ad5e03a092> ;
     skos:notation "1.2.1" ;
     skos:prefLabel "Die Schülerinnen und Schüler..."@de .
 
-<bio004/4bdb85d3-4bb7-49a9-8a63-898418781856> a skos:Concept ;
+<bio004/4046fc69-4ea4-46aa-8b64-04b375f9a65d> a skos:Concept ;
     skos:broader <bio004> ;
     skos:inScheme <> ;
-    skos:narrower <bio004/3b477296-3f09-4ef1-bc11-dd448ebed614>,
-        <bio004/6f633945-e081-4f1c-b996-f9636c4a6454>,
-        <bio004/bbfaa4ce-c196-428e-a2bb-d27eafc7bc36>,
-        <bio004/bd0bc9da-8818-4bfc-b5ac-a037c27e34fb>,
-        <bio004/cec25899-e801-4f33-bea4-c38dd4934688>,
-        <bio004/df70e7c0-46d9-4021-b582-3618fa56ea74>,
-        <bio004/fe0decf2-6bd4-45ec-8777-5989e27c94dd> ;
+    skos:narrower <bio004/1009cc79-94e5-46fd-9006-836f40c7e1f5>,
+        <bio004/5c5237ee-2779-4ead-aaab-10783ae616f7>,
+        <bio004/6b2f2377-121b-4884-9e35-9b84faeb3728>,
+        <bio004/9fb3a6c6-d1ca-48a5-9341-f68cb8bc7636>,
+        <bio004/a8882e6b-9e08-4c7a-b918-dec2f4da46bf>,
+        <bio004/bdcd59c4-cc77-4720-a60b-2eb582a3c30e>,
+        <bio004/ce33a516-ec8a-47d7-ba46-fa08ab119ebf> ;
     skos:notation "4.1" ;
     skos:prefLabel "Die Schülerinnen und Schüler..."@de .
 
-<bio001/49fb9247-4c57-41ab-960e-725d0454e2c6> a skos:Concept ;
-    skos:broader <bio001/7af61a6b-538f-4a89-a234-58a6a8c986d0> ;
+<bio001/78de89c4-4371-442e-96f5-0e3dcb9cb20d> a skos:Concept ;
+    skos:broader <bio001/ac5479c3-96f3-465b-8b25-84b0ec5c8073> ;
     skos:inScheme <> ;
-    skos:narrower <bio001/312d986d-cfeb-4bd6-8ed0-5cdba6489ba7>,
-        <bio001/4764b0ff-591c-40a0-937a-30f0ecf84308>,
-        <bio001/4bfde809-6d39-4454-bfc1-d3295bdb30d1>,
-        <bio001/94d5818d-d2b5-4e7e-bf10-acda00fc6f78>,
-        <bio001/b59d7cab-5f5e-47b0-a998-36928f6ec23d>,
-        <bio001/b6e3ee05-4c1a-4b32-bf86-13a6fd08a695>,
-        <bio001/cacb3af3-997d-4812-8607-a51a6f01eb2f>,
-        <bio001/f9fd8f2b-4fd2-4778-bc6a-c70079b6b74c> ;
-    skos:notation "1.1.1" ;
-    skos:prefLabel "Die Schülerinnen und Schüler..."@de .
-
-<bio001/bb7ad5d0-8b8b-4ba5-a321-b89bd3ae0478> a skos:Concept ;
-    skos:broader <bio001/94a03de1-c11e-4f4d-8f38-02853b413bce> ;
-    skos:inScheme <> ;
-    skos:narrower <bio001/16581373-2f9f-4c25-9dc8-15b5b6e65f10>,
-        <bio001/165a0969-85ba-4120-8156-90b67b63b570>,
-        <bio001/48e95882-f56b-49d5-b04c-9b555bcf1f1c>,
-        <bio001/9797a6ca-506b-47d2-b460-91e356af4d9a>,
-        <bio001/c5812d4f-b639-4310-9803-ff7160263c0d>,
-        <bio001/c7eaf4c6-7521-4c31-8782-eb5c39b1f5c3>,
-        <bio001/d3a4e650-811a-456e-8efd-103ca31a2ffa>,
-        <bio001/dfb75646-a8c3-4e34-9db9-7b8ac2751061> ;
+    skos:narrower <bio001/27f59799-a576-4866-b953-7205ef089391>,
+        <bio001/2dc58067-b984-4e85-8084-783b7fdfea2d>,
+        <bio001/63588402-726e-4662-8a8c-c71654343537>,
+        <bio001/6ecd7dba-3912-4b5a-8334-364713f17438>,
+        <bio001/8d8e681f-a2f9-47b9-aad0-564b13dc7f35>,
+        <bio001/8f1af06b-8cbb-4b41-8867-358629e9cbb4>,
+        <bio001/d3c3dca2-86fd-4c83-a3b9-e9ec40a3bf01>,
+        <bio001/f82a89cb-ba06-4c72-aa30-41f404a170a2> ;
     skos:notation "1.3.1" ;
     skos:prefLabel "Die Schülerinnen und Schüler..."@de .
 
-<bio003/cd687d7a-884f-4984-a1cb-6dd696559b6b> a skos:Concept ;
+<bio001/f1fd239c-854e-44cf-83d0-924cbcb1f8aa> a skos:Concept ;
+    skos:broader <bio001/af5e1a0a-ed9c-4f49-8be5-915c3a38ea71> ;
+    skos:inScheme <> ;
+    skos:narrower <bio001/1aff95a0-833f-4160-a2af-7c3e9d960cc4>,
+        <bio001/26341c4a-5532-48d2-95eb-11a453dcd7e6>,
+        <bio001/75548aa0-77ff-4092-a309-155603138950>,
+        <bio001/81bfaa90-9c5e-4bc3-89ad-27a22b3e83ea>,
+        <bio001/8a78e43e-cbe2-4aca-b9a8-218f15e18090>,
+        <bio001/98c56a55-cdbc-4e56-91e1-79335f481cb7>,
+        <bio001/9eed25bd-a32d-43be-b123-9ac9c8f47154>,
+        <bio001/d961e189-5df3-4cc6-9e65-729a50d1cca5> ;
+    skos:notation "1.1.1" ;
+    skos:prefLabel "Die Schülerinnen und Schüler..."@de .
+
+<bio003/c0d32851-5031-4dbb-87f5-9f5d51025c09> a skos:Concept ;
     skos:broader <bio003> ;
     skos:inScheme <> ;
-    skos:narrower <bio003/28a7b491-4ad6-4cb0-8306-20fb40703859>,
-        <bio003/31a7b317-56f9-4bbb-b363-3be34ee23458>,
-        <bio003/447242b1-a615-4304-bfed-b56349a85033>,
-        <bio003/51980c0e-16ad-485c-8392-0da3de0bcc31>,
-        <bio003/5909cf1a-2bd4-48a2-acf6-1b6bbefeb15b>,
-        <bio003/5ddd3dcf-d557-4d37-9518-851766796b6e>,
-        <bio003/b3cd889d-2422-4eb8-955d-7aaa288a9d0c>,
-        <bio003/b433bcca-07b7-4296-98a8-757eab6bdb44>,
-        <bio003/c6a502ca-5ce6-49de-a9e3-8fa0b87d7477>,
-        <bio003/e6831545-b144-405d-9883-de500bb02b54> ;
+    skos:narrower <bio003/510ecc54-fd3f-4814-ae49-5286f95387b2>,
+        <bio003/8b4b8831-34a0-4c93-9f32-a263e0829609>,
+        <bio003/a996c808-3c5e-4c80-8208-d745790bde3f>,
+        <bio003/a9f58633-d0a9-4e26-8286-df528e05a034>,
+        <bio003/ad69d504-3740-4b27-ba01-5b67220fcb82>,
+        <bio003/b38fa405-6c9e-4ffa-b933-3806516bdcdc>,
+        <bio003/c0d08024-e59e-4761-a890-454361ad1da6>,
+        <bio003/dc678130-3d3e-4bb5-969c-88ad22736d67>,
+        <bio003/ddc7523d-0383-4e2c-a256-f8a236dba058>,
+        <bio003/f3bedd64-418d-4088-bca1-280af34c42b3> ;
     skos:notation "3.1" ;
     skos:prefLabel "Die Schülerinnen und Schüler..."@de .
 
-<bio002/ec467837-37de-48a8-9cd5-c6d6322ab147> a skos:Concept ;
+<bio002/e0b649b3-af80-4dfb-80c4-2168e1afcd88> a skos:Concept ;
     skos:broader <bio002> ;
     skos:inScheme <> ;
-    skos:narrower <bio002/16017c69-5025-49fb-a066-80415e1156b9>,
-        <bio002/1d9880b8-be16-4904-a4bb-557448a2db5e>,
-        <bio002/4dd63c1b-35dc-4365-955a-52a5c951174c>,
-        <bio002/4f3d8765-4b15-449a-9198-cffbba5f996f>,
-        <bio002/52453f41-b5b1-44cf-94ae-3da1d4db683d>,
-        <bio002/64c2404b-d4d7-4178-8049-7e0fab8f17b4>,
-        <bio002/85eeea3a-6f96-4c66-9b3f-c12e5f45771f>,
-        <bio002/9490eddb-a140-4ab0-9d4b-764cbb1fe0b2>,
-        <bio002/a6cb1891-00ff-4034-8164-b8643d37685b>,
-        <bio002/afd7c9db-5eec-4ea9-9669-aed08a0543bc>,
-        <bio002/b9297cd2-bab5-4176-ad49-0f33847f7e7f>,
-        <bio002/bff080af-cdb5-4a6d-b05f-7d6fb0d28b46>,
-        <bio002/d169abc5-972d-45f6-9e71-40229c89ff48> ;
+    skos:narrower <bio002/03121466-8b1a-483f-9a6f-d6d26250b377>,
+        <bio002/0c9175fc-5e87-461e-b1d6-aacaac183df9>,
+        <bio002/1050ca91-5db4-4d75-bca5-67235f412806>,
+        <bio002/1bbfc1f9-d334-441b-97ba-00bb54a71605>,
+        <bio002/3829235b-5c5d-48a6-9100-5b5fd30360aa>,
+        <bio002/415c0548-b5f7-48d4-b1f1-44db2b66da3a>,
+        <bio002/656ac71b-d23d-4aea-b459-4e450bc327ec>,
+        <bio002/7a73e393-b9b0-414d-a1bf-2f902c025f37>,
+        <bio002/88ce70cb-a5b2-483f-aa4e-e616e12833a4>,
+        <bio002/b360d490-70a8-4181-a677-233cace44974>,
+        <bio002/b4ab56d6-c714-4ae0-86c9-41e7bab3d39b>,
+        <bio002/be38d501-b39c-420f-ab95-a590c6ffa0a8>,
+        <bio002/e9be5fdf-c819-49af-9736-94924f9318b7> ;
     skos:notation "2.1" ;
     skos:prefLabel "Die Schülerinnen und Schüler..."@de .
 
